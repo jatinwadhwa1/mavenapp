@@ -21,5 +21,10 @@
         <name>ip-172-31-46-1-releases</name>
         <url>http://13.235.50.247:8081/artifactory/libs-release</url>
     </repository>
+     <snapshotRepository>
+        <id>snapshots</id>
+        <name>ip-172-31-46-1-snapshots</name>
+        <url>http://13.235.50.247:8081/artifactory/libs-snapshot</url>
+    </snapshotRepository>
 </distributionManagement>
 </project>
